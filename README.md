@@ -1,3 +1,7 @@
+<p align="center">
+  <video src="https://github.com/Selfnify/quit-slop/raw/main/video/quit-slop-promo.mp4" controls muted width="100%"></video>
+</p>
+
 # Quit-Slop
 
 Design rules that strip the AI slop from websites and UIs.
@@ -27,6 +31,18 @@ Quit-Slop is a skill for AI coding agents. It takes a generic, over-decorated in
 - Chat screen recipe
 - Liquid glass recipe
 
+## Repository layout
+
+```text
+quit-slop/
+├── SKILL.md        the skill itself, loaded by your agent
+├── references/     supporting reference material
+├── scripts/        helper scripts
+├── video/          promo video
+├── LICENSE
+└── README.md
+```
+
 ## Install
 
 ```bash
@@ -47,7 +63,7 @@ It also activates when you design, redesign, restyle or polish a website, landin
 
 Same task. Same AI. Different design standards.
 
-The promo video shows a deliberately sloppy landing page (`before.html`) refined into `after.html`: same brand, same palette, same content, same layout.
+The video above shows a deliberately sloppy landing page refined into a clean one: same brand, same palette, same content, same layout.
 
 ## License
 
