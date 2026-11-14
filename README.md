@@ -1,7 +1,3 @@
-<p align="center">
-  <video src="https://github.com/Selfnify/quit-slop/raw/main/video/quit-slop-promo.mp4" controls muted width="100%"></video>
-</p>
-
 # Quit-Slop
 
 Design rules that strip the AI slop from websites and UIs.
