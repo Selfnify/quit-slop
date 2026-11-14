@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/19138ce4-82cf-4b17-acd3-c20e68bc14ba
+
 # Quit-Slop
 
 Design rules that strip the AI slop from websites and UIs.
